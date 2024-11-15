@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gamedev
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me here
+- 📫 How to reach me: here
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ya aboba
 
