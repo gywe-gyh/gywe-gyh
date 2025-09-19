@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: here
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ya aboba
+- ⚡ Fun fact: you know it pal
 
 <!---
 gywe-gyh/gywe-gyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
