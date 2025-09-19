@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gywe-gyh
-- 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Maksimov Ivan Antonovych aka gywe_gyh
+- 👀 I’m interested in Gamedev,software development
+- 🌱 I’m currently learning C#,Python,GodotScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: here
+- 📫 How to reach me: here,youtube,artstation
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: you know it pal
 
