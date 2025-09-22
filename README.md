@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: here,youtube,artstation
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: you know it pal
+- ⚡ Fun fact: you know it pal, you are not book smart, you are money smart makes you.
 
 <!---
 gywe-gyh/gywe-gyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
